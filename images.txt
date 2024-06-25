@@ -1,5 +1,2 @@
-nginx
-privoce/vocechat-server
-xiaoyaliu/alist
 nyanmisaka/jellyfin
-dreamacro/clash-premium
+
